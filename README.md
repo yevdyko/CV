@@ -57,3 +57,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Belpromproject** (March 2008 - July 2010)   
 *Structural Engineer*
+
+## Languages
+
+- Russian (Native or bilingual proficiency)
+- Belarusian (Native or bilingual proficiency)
+- English (Professional working proficiency / IELTS General for UKVI, overall band 7.0) 
+- German (Limited working proficiency)
