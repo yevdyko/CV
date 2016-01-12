@@ -32,17 +32,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Belarusian National Technical University (September 2003 - June 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Bachelor of Engineering (B.Eng.), Civil Engineering
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Translatio** (January 2015 - September 2015)    
+*Technical Translator*
+
+**IMC Planungsgesellschaft mbH** (June 2013 - December 2014)    
+*Structural Engineer*  
+
+**ISOBUD** (July 2011 - May 2013)   
+*Structural Engineer*  
+
+**Belpromproject** (March 2008 - July 2010)   
+*Structural Engineer*
