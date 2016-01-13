@@ -3,6 +3,14 @@
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
+||Strong|Know|
+| --- | --- | --- |
+|Languages|Ruby, JavaScript, HTML5/CSS3|jQuery|
+|Databases/ORMS|PostgreSQL, DataMapper, ActiveRecord|MongoDB|
+|Frameworks|Ruby on Rails, Sinatra, AngularJS|Node.js, Express|
+|Testing|RSpec, Jasmine, Capybara|Karma, Protractor|
+|Other|Version control through GitHub|Heroku deploymnet, Agile methodologies| 
+
 
 #### This Skill
 
