@@ -28,6 +28,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | [Autopair](https://github.com/yevdyko/autopair) | | Ruby on Rails, AngularJS| 
 | [Tescoin](https://github.com/yevdyko/tescoin) | | AngularJS |
 | [TwitterCities](https://github.com/yevdyko/TwitterCities) | | MongoDB, Express, Node.js |
+| [Chitter](https://github.com/yevdyko/chitter-challenge) | |  |
+| [Instagram](https://github.com/yevdyko/instagram-challenge) | |  |
 
 ## Education
 
