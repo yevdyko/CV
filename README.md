@@ -1,4 +1,4 @@
-## Yev Dyko
+# Yev Dyko
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -31,13 +31,43 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects
 
-| Name| Description| Technologies |
-| --- | --- | --- |
-| [Autopair](https://github.com/yevdyko/autopair) | | Ruby on Rails, AngularJS| 
-| [Tescoin](https://github.com/yevdyko/tescoin) | | AngularJS |
-| [TwitterCities](https://github.com/yevdyko/TwitterCities) | | MongoDB, Express, Node.js |
-| [Chitter](https://github.com/yevdyko/chitter-challenge) | |  |
-| [Instagram](https://github.com/yevdyko/instagram-challenge) | |  |
+**[AUTOPAIR](https://github.com/yevdyko/autopair)**
+
+Info about project
+
+Technologies: Ruby on Rails, AngularJS
+
+**[TESCOIN](https://github.com/yevdyko/tescoin)**
+
+Info about project
+
+Technologies: AngularJS
+
+**[TWITTERCITIES](https://github.com/yevdyko/TwitterCities)**
+
+Info about project
+
+Technologies: MongoDB, Express, Node.js
+
+**[BOWLING](https://github.com/yevdyko/bowling-challenge)**
+
+Info about project
+
+**[CHITTER](https://github.com/yevdyko/chitter-challenge)**
+
+Info about project
+
+**[INSTAGRAM](https://github.com/yevdyko/instagram-challenge)**
+
+Info about project
+
+**[YELP](https://github.com/yevdyko/yelp_clone)**
+
+Info about project
+
+**[TODO](https://github.com/yevdyko/todo_challenge)**
+
+Info about project
 
 ## Education
 
