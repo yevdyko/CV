@@ -53,21 +53,31 @@ Technologies: MongoDB, Express, Node.js
 
 Info about project
 
+Technologies: JavaScript
+
 **[CHITTER](https://github.com/yevdyko/chitter-challenge)**
 
 Info about project
+
+Technologies: Ruby, Sinatra
 
 **[INSTAGRAM](https://github.com/yevdyko/instagram-challenge)**
 
 Info about project
 
+Technologies: Ruby on Rails
+
 **[YELP](https://github.com/yevdyko/yelp_clone)**
 
 Info about project
 
+Technologies: Ruby on Rails
+
 **[TODO](https://github.com/yevdyko/todo_challenge)**
 
 Info about project
+
+Technologies: AngularJS
 
 ## Education
 
