@@ -1,9 +1,11 @@
 # Yev Dyko
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-I'm seeking an opportunity as a juniour developer to continue developing my professional skills and become part of a motivated and enthusiastic team.
+A sentence about who and what you are. Then a sentence about what you've achieved. 
+
+I'm seeking an opportunity as a juniour developer with exposute to the full-stack to continue developing my professional skills and become part of a motivated and enthusiastic team.
 
 ## Skills
+### Web development
 ||Strong|Know|
 | --- | --- | --- |
 |Languages|Ruby, JavaScript, HTML5/CSS3|jQuery|
@@ -14,25 +16,25 @@ I'm seeking an opportunity as a juniour developer to continue developing my prof
 
 ## Projects
 
-####[AUTOPAIR](https://github.com/yevdyko/autopair)
+**[AUTOPAIR](https://github.com/yevdyko/autopair)**
 
 Final project created at Makers Academy. A web based system that allows a potential student to visit a personalised URL that points to a pre-screening test just for them.
 
 Technologies: Ruby on Rails, Active Model Serializer for JSON API’s, AngularJS, PostgreSQL
 
-####[TESCOIN](https://github.com/yevdyko/tescoin)
+**[TESCOIN](https://github.com/yevdyko/tescoin)**
 
 A project created during the Makerthon week at Makers Academy. A website that lets you search the Tesco online grocery catalog and display the results priced in bitcoins.
 
 Technologies: Node.js, AngularJS, Tesco Labs API, Bittylicious API 
 
-####[CHITTER](https://github.com/yevdyko/chitter-challenge)
+**[CHITTER](https://github.com/yevdyko/chitter-challenge)**
 
 A Twitter clone
 
 Technologies: Ruby, Sinatra, PostgreSQL
 
-####[INSTAGRAM](https://github.com/yevdyko/instagram-challenge)
+**[INSTAGRAM](https://github.com/yevdyko/instagram-challenge)**
 
 An Instagram clone
 
@@ -42,8 +44,8 @@ Technologies: Ruby on Rails, PostgreSQL
 
 #### Makers Academy (September 2015 - January 2016)
 
-- Curiosity and hungry passion for code
 - Independent learner and problem-solver
+- Pair programming and Agile practices
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
