@@ -31,53 +31,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects
 
-**[AUTOPAIR](https://github.com/yevdyko/autopair)**
+####[AUTOPAIR](https://github.com/yevdyko/autopair)
 
-Info about project
+Final project created at Makers Academy. A web based system that allows a potential student to visit a personalised URL that points to a pre-screening test just for them.
 
-Technologies: Ruby on Rails, AngularJS
+Technologies: Ruby on Rails, Active Model Serializer for JSON API’s, AngularJS, PostgreSQL
 
-**[TESCOIN](https://github.com/yevdyko/tescoin)**
+####[TESCOIN](https://github.com/yevdyko/tescoin)
 
-Info about project
+A project created during the Makerthon week at Makers Academy. A website that lets you search the Tesco online grocery catalog and display the results priced in bitcoins.
 
-Technologies: AngularJS
+Technologies: Node.js, AngularJS, Tesco Labs API, Bittylicious API 
 
-**[TWITTERCITIES](https://github.com/yevdyko/TwitterCities)**
+####[CHITTER](https://github.com/yevdyko/chitter-challenge)
 
-Info about project
+A Twitter clone
 
-Technologies: MongoDB, Express, Node.js
+Technologies: Ruby, Sinatra, PostgreSQL
 
-**[BOWLING](https://github.com/yevdyko/bowling-challenge)**
+####[INSTAGRAM](https://github.com/yevdyko/instagram-challenge)
 
-Info about project
+An Instagram clone
 
-Technologies: JavaScript
-
-**[CHITTER](https://github.com/yevdyko/chitter-challenge)**
-
-Info about project
-
-Technologies: Ruby, Sinatra
-
-**[INSTAGRAM](https://github.com/yevdyko/instagram-challenge)**
-
-Info about project
-
-Technologies: Ruby on Rails
-
-**[YELP](https://github.com/yevdyko/yelp_clone)**
-
-Info about project
-
-Technologies: Ruby on Rails
-
-**[TODO](https://github.com/yevdyko/todo_challenge)**
-
-Info about project
-
-Technologies: AngularJS
+Technologies: Ruby on Rails, PostgreSQL
 
 ## Education
 
