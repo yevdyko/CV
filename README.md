@@ -90,3 +90,7 @@ Technologies: Ruby on Rails, PostgreSQL
 - Belarusian (Native or bilingual proficiency)
 - English (Professional working proficiency / IELTS General for UKVI, overall band 7.0) 
 - German (Limited working proficiency)
+
+## Interests
+
+- Creative coding and generative art
