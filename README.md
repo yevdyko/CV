@@ -1,6 +1,6 @@
 # Yev Dyko
 
-A sentence about who and what you are. Then a sentence about what you've achieved. 
+My interests in technology and linguistics led me to the world of programming where I can apply my abilities in problem solving with a passion about design.
 
 I'm seeking an opportunity as a juniour developer with exposute to the full-stack to continue developing my professional skills and become part of a motivated and enthusiastic team.
 
