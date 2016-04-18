@@ -44,12 +44,16 @@ Technologies: Ruby on Rails, PostgreSQL
 
 #### Makers Academy (September 2015 - January 2016)
 
+- A desire to write clean, maintainable and modular code
 - Independent learner and problem-solver
-- Pair programming and Agile practices
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Team player: 3 months remote pair-programming
+- OOP, TDD, BDD, SOLID, MVC, DDD
+- Ruby, JavaScript, HTML5, CSS3, jQuery
+- Rails, Node.js, Angular.js, Bootstrap 3
+- RSpec, Capybara, Selenium, Jasmine, Karma, Protractor
+- PostgreSQL, MongoDB
+- Git, GitHub
+- Travis CI
 
 #### Belarusian National Technical University (September 2003 - June 2008)
 
