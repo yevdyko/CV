@@ -1,11 +1,12 @@
 # Yev Dyko
 
-My interests in technology and linguistics led me to the world of programming where I'm happy to apply my abilities in problem solving with a passion for design.
+My interest in technology and linguistics led me to the world of programming where I'm happy to apply my abilities in problem solving with a passion for design.
 
 I'm seeking an opportunity as a juniour developer with exposure to the full-stack to continue developing my professional skills and become part of a motivated and enthusiastic team.
 
 ## Skills
 ### Web development
+
 ||Strong|Know|
 | --- | --- | --- |
 |Languages|Ruby, JavaScript, HTML5/CSS3|jQuery|
@@ -41,6 +42,17 @@ An Instagram clone
 Technologies: Ruby on Rails, PostgreSQL
 
 ## Education
+
+#### HTML Academy (January 2016 - April 2016)
+
+- Part-time Frontend course
+- HTML5, CSS3, JavaScript
+- Using BEM methodology 
+- Responsive web development including cross-browser support and semantic tags
+- Less/Sass
+- Grunt, Gulp
+- SVG
+- PSD to HTML and CSS
 
 #### Makers Academy (September 2015 - January 2016)
 
