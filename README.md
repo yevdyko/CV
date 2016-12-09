@@ -2,85 +2,76 @@
 
 My interest in technology and linguistics led me to the world of programming where I'm happy to apply my abilities in problem solving with a passion for design.
 
-I'm seeking an opportunity as a juniour developer with exposure to the full-stack to continue developing my professional skills and become part of a motivated and enthusiastic team.
+I'm seeking an opportunity as a junior developer with exposure to the full-stack to continue developing my professional skills and become part of a motivated and enthusiastic team.
 
 ## Skills
-### Web development
 
-||Strong|Know|
-| --- | --- | --- |
-|Languages|Ruby, JavaScript, HTML5/CSS3|jQuery|
-|Databases/ORMS|PostgreSQL, DataMapper, ActiveRecord|MongoDB|
-|Frameworks|Ruby on Rails, Sinatra, AngularJS|Node.js, Express|
-|Testing|RSpec, Jasmine, Capybara|Karma, Protractor|
-|Other|Version control through GitHub|Heroku deploymnet, Agile methodologies| 
+### Web Development
 
-## Projects
+**Ruby on Rails**
 
-**[AUTOPAIR](https://github.com/yevdyko/autopair)**
+[**Pixagram**](https://github.com/yevdyko/pixagram)
 
-Final project created at Makers Academy. A web based system that allows a potential student to visit a personalised URL that points to a pre-screening test just for them.
+*A social networking application that allows users to share photos in a public stream.*
 
-Technologies: Ruby on Rails, Active Model Serializer for JSON API’s, AngularJS, PostgreSQL
+Technologies used: PostgreSQL, Ruby on Rails, JavaScript, jQuery, Bootstrap, HAML/SCSS, RSpec, Capybara
 
-**[TESCOIN](https://github.com/yevdyko/tescoin)**
+**Ruby**
 
-A project created during the Makerthon week at Makers Academy. A website that lets you search the Tesco online grocery catalog and display the results priced in bitcoins.
+[**Airport Challenge**](https://github.com/yevdyko/airport-challenge)
 
-Technologies: Node.js, AngularJS, Tesco Labs API, Bittylicious API 
+*An air traffic control simulation at an airport that demonstrates the understanding of object-oriented programming and SOLID principles.*
 
-**[CHITTER](https://github.com/yevdyko/chitter-challenge)**
+Technologies used: Ruby, RSpec, Capybara
 
-A Twitter clone
+**JavaScript**
 
-Technologies: Ruby, Sinatra, PostgreSQL
+[**Tescoin**](https://github.com/yevdyko/tescoin)
 
-**[INSTAGRAM](https://github.com/yevdyko/instagram-challenge)**
+*An application that lets you search the Tesco online grocery catalog and display the results priced in bitcoins.*
 
-An Instagram clone
+Technologies used: Node.js, AngularJS, Bootstrap, Tesco Labs API, Bittylicious API, Jasmine, Karma, Protractor
 
-Technologies: Ruby on Rails, PostgreSQL
+**HTML & CSS**
+
+[**Point of Sale**](https://github.com/yevdyko/pos)
+
+*User Interface for a Point of Sale System adapted for use with iPad.*
+
+Technologies used: HTML5, CSS3, SCSS, Gulp
+
+[**Sedona**](https://github.com/yevdyko/sedona)
+
+*A responsive website built using mobile-first design principles. It has one design for all screen resolution that can adapt to any size of screen — mobile, tablet and desktop.*
+
+Technologies used: HTML5, CSS3, JavaScript, SCSS, SVG, Grunt
 
 ## Education
 
 #### HTML Academy (January 2016 - April 2016)
 
-- Part-time Frontend course
-- HTML5, CSS3, JavaScript
-- Using BEM methodology 
-- Responsive web development including cross-browser support and semantic tags
-- Less/Sass
-- Grunt, Gulp
-- SVG
-- PSD to HTML and CSS
+*A part-time Frontend course (HTML & CSS)*
 
 #### Makers Academy (September 2015 - January 2016)
 
-- A desire to write clean, maintainable and modular code
-- Independent learner and problem-solver
-- Team player: 3 months remote pair-programming
-- OOP, TDD, BDD, SOLID, MVC, DDD
-- Ruby, JavaScript, HTML5, CSS3, jQuery
-- Rails, Node.js, Angular.js, Bootstrap 3
-- RSpec, Capybara, Selenium, Jasmine, Karma, Protractor
-- PostgreSQL, MongoDB
-- Git, GitHub
-- Travis CI
+*An intensive 16-weeks full-time web-development course.*
+
+A learning process was focused on the pair programming, OOP concepts, test-driven development, SOLID principles and Agile methodologies.
 
 #### Belarusian National Technical University (September 2003 - June 2008)
 
-- Bachelor of Engineering (B.Eng.), Civil Engineering
+*Bachelor of Engineering (B.Eng.), Civil Engineering*
 
 ## Experience
 
-**Translatio** (January 2015 - September 2015)    
+**Translatio** (January 2015 - May 2016)  
 *Technical Translator*
 
-**IMC Planungsgesellschaft mbH** (June 2013 - December 2014)    
-*Structural Engineer*  
+**IMC Planungsgesellschaft mbH** (June 2013 - December 2014)  
+*Structural Engineer*
 
 **ISOBUD** (July 2011 - May 2013)   
-*Structural Engineer*  
+*Structural Engineer*
 
 **Belpromproject** (March 2008 - July 2010)   
 *Structural Engineer*
@@ -95,3 +86,4 @@ Technologies: Ruby on Rails, PostgreSQL
 ## Interests
 
 - Creative coding and generative art
+- Data visualization
