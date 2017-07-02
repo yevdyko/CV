@@ -60,6 +60,10 @@ Technologies used: HTML5, CSS3, JavaScript, SCSS, SVG, Grunt
 
 ## Education
 
+#### The Rolling Scopes School (February 2017 - April 2017)
+
+*A part-time JavaScript/Frontend course*
+
 #### HTML Academy (January 2016 - April 2016)
 
 *A part-time Frontend course (HTML & CSS)*
