@@ -60,14 +60,6 @@ Technologies used: HTML5, CSS3, JavaScript, SCSS, SVG, Grunt
 
 ## Education
 
-#### The Rolling Scopes School (February 2017 - April 2017)
-
-*A part-time JavaScript/Frontend course*
-
-#### HTML Academy (January 2016 - April 2016)
-
-*A part-time Frontend course (HTML & CSS)*
-
 #### Makers Academy (September 2015 - January 2016)
 
 *An intensive 16-weeks full-time web-development course.*
@@ -79,6 +71,9 @@ A learning process was focused on the pair programming, OOP concepts, test-drive
 *Bachelor of Engineering (B.Eng.), Civil Engineering*
 
 ## Experience
+
+**Itexus** (June 2017 - present)  
+*Software Engineer*
 
 **Translatio** (January 2015 - May 2016)  
 *Technical Translator*
