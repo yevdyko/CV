@@ -12,8 +12,19 @@ My interest in technology and linguistics led me to the world of programming whe
 
 ## Experience
 
-**ItechArt Group** (April 2018 - present)\
-*Software Engineer*
+**Software Engineer** ItechArt Group (April 2018 - present)
+
+*Radian Generation*. A solar asset management app.
+- Worked closely with client to deliver new features, helped to clarify requirements during development and suggested technical solutions.
+- Improved code maintainability using SOLID design principles as part of extending existing or adding new functionality; highlighted areas for potential improvement.
+- Provided code quality with unit tests.
+- Built an inventory system to manage and track spare parts, which allows to check quantities, make order requests, and view reorder history, set a low-quantity alert, and track status of reorders. Technically, this included API design and implementation, covered with specs; sending notification emails under certain conditions and creating UI components.
+- Expanded notes feature and integrated them into the existing calendar system; highlighted areas for potential improvement.
+- Worked with QuickBase and Dropbox storages: imported client files to the app database; exported tables and data for a backup purpose.
+- Implemented an automated rake task for export attachment documents to an archive file structured in accordance with the requirements and for uploading it to a S3 storage.
+
+Technologies: MySQL, Ruby 2.3.8, Ruby on Rails 4, JavaScript, AngularJS, Grunt, RequireJS, PhantomJS, AWS.
+
 
 **Itexus** (June 2017 - March 2018)\
 *Software Engineer*
