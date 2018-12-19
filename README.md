@@ -10,16 +10,6 @@ My interest in technology and linguistics led me to the world of programming whe
 - Understand OOP concepts and follow in practice the KISS/DRY/SOLID principles.
 - Write clean and maintainable code using TDD/BDD techniques and well-documented commits.
 
-## Education
-
-**Makers Academy** (September 2015 - January 2016)\
-*An intensive 16-weeks full-time web-development course.*
-
-A learning process was focused on the pair programming, OOP concepts, test-driven development, SOLID principles and Agile methodologies.
-
-**Belarusian National Technical University** (September 2003 - June 2008)\
-*Bachelor of Engineering (B.Eng.), Civil Engineering*
-
 ## Experience
 
 **ItechArt Group** (April 2018 - present)\
@@ -42,6 +32,16 @@ A learning process was focused on the pair programming, OOP concepts, test-drive
 
 **Belpromproject** (March 2008 - July 2010)\
 *Structural Engineer*
+
+## Education
+
+**Makers Academy** (September 2015 - January 2016)\
+*An intensive 16-weeks full-time web-development course.*
+
+A learning process was focused on the pair programming, OOP concepts, test-driven development, SOLID principles and Agile methodologies.
+
+**Belarusian National Technical University** (September 2003 - June 2008)\
+*Bachelor of Engineering (B.Eng.), Civil Engineering*
 
 ## Skills
 
