@@ -1,5 +1,7 @@
 # Eugene Dyko
 
+[Experience](#experience) | [Education](#education) | [Skills](#skills) | [LinkedIn](http://www.linkedin.com/in/yevdyko)
+
 My interest in technology and linguistics led me to the world of programming where I'm happy to apply my abilities in problem solving with a passion for design.
 
 ## Summary
