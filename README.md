@@ -25,26 +25,33 @@ My interest in technology and linguistics led me to the world of programming whe
 - Worked with QuickBase and Dropbox storages: imported client files to the app database; exported tables and data for a backup purpose.
 - Implemented an automated rake task for export attachment documents to an archive file structured in accordance with the requirements and for uploading it to a S3 storage.
 
-Technologies: MySQL, Ruby 2.3.8, Ruby on Rails 4, JavaScript, AngularJS, Grunt, RequireJS, PhantomJS, AWS.
+Technologies: MySQL, Ruby 2.4.5, Ruby on Rails 4, JavaScript, AngularJS, Grunt, RequireJS, PhantomJS, AWS.
 
+**Software Engineer** Itexus (June 2017 - March 2018)
 
-**Itexus** (June 2017 - March 2018)\
-*Software Engineer*
+*sumApp*. A network mapping application that reveals the kinds of relationships people have to one another.
+- Built a member invitation system with custom email template editor using Mandrill as sending emails service. It consists of email sending statistics, section with actions for sending different kinds of bulk emails, email template editor and email history.
+- Customized Datatables plugin for list views.
+- Implemented client side of member profile pages.
 
-**Self-Employed** (Feb 2016 – Jul 2017)\
-*Software Engineer*
+Technologies: PostgreSQL, Ruby 2.3.1, Ruby on Rails 5, JavaScript, jQuery, AngularJS, Bootstrap, HAML/SCSS, Capistrano, Sidekiq.
 
-**Translatio** (January 2015 - May 2016)\
-*Technical Translator*
+*Cables and Sensors*. A product database warehouse app.
+- Implemented custom and complex form using form objects design pattern.
+- Added new and improved existed UI elements.
+- Migrated data from one entity to another.
 
-**IMC Planungsgesellschaft mbH** (June 2013 - December 2014)\
-*Structural Engineer*
+Technologies: MySQL, Ruby 2.3.1, Ruby on Rails 4, JavaScript, jQuery, Bootstrap, HAML/SCSS, Rails Admin, Grape, Capistrano.
 
-**ISOBUD** (July 2011 - May 2013)\
-*Structural Engineer*
+**Software Engineer** Self-Employed (Feb 2016 – Jul 2017)
 
-**Belpromproject** (March 2008 - July 2010)\
-*Structural Engineer*
+**Technical Translator** Technical Translator (January 2015 - May 2016)
+
+**Structural Engineer** IMC Planungsgesellschaft mbH (June 2013 - December 2014)
+
+**Structural Engineer** ISOBUD (July 2011 - May 2013)
+
+**Structural Engineer** Belpromproject (March 2008 - July 2010)
 
 ## Education
 
