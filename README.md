@@ -14,7 +14,8 @@ My interest in technology and linguistics led me to the world of programming whe
 
 ## Experience
 
-**Software Engineer** ItechArt Group (April 2018 - present)
+**Software Engineer** (April 2018 - present)\
+*iTechArt Group*
 
 *Radian Generation*. A solar asset management app.
 - Worked closely with client to deliver new features, helped to clarify requirements during development and suggested technical solutions.
@@ -27,7 +28,8 @@ My interest in technology and linguistics led me to the world of programming whe
 
 Technologies: MySQL, Ruby 2.4.5, Ruby on Rails 4, JavaScript, AngularJS, Grunt, RequireJS, PhantomJS, AWS.
 
-**Software Engineer** Itexus (June 2017 - March 2018)
+**Software Engineer** (June 2017 - March 2018)\
+*Itexus*
 
 *sumApp*. A network mapping application that reveals the kinds of relationships people have to one another.
 - Built a member invitation system with custom email template editor using Mandrill as sending emails service. It consists of email sending statistics, section with actions for sending different kinds of bulk emails, email template editor and email history.
@@ -43,15 +45,20 @@ Technologies: PostgreSQL, Ruby 2.3.1, Ruby on Rails 5, JavaScript, jQuery, Angul
 
 Technologies: MySQL, Ruby 2.3.1, Ruby on Rails 4, JavaScript, jQuery, Bootstrap, HAML/SCSS, Rails Admin, Grape, Capistrano.
 
-**Software Engineer** Self-Employed (Feb 2016 – Jul 2017)
+**Software Engineer** (Feb 2016 – Jul 2017)\
+*Self-Employed*
 
-**Technical Translator** Technical Translator (January 2015 - May 2016)
+**Technical Translator** (January 2015 - May 2016)\
+*Technical Translator*
 
-**Structural Engineer** IMC Planungsgesellschaft mbH (June 2013 - December 2014)
+**Structural Engineer** (June 2013 - December 2014)\
+*IMC Planungsgesellschaft mbH*
 
-**Structural Engineer** ISOBUD (July 2011 - May 2013)
+**Structural Engineer** (July 2011 - May 2013)\
+*ISOBUD*
 
-**Structural Engineer** Belpromproject (March 2008 - July 2010)
+**Structural Engineer** (March 2008 - July 2010)\
+*Belpromproject*
 
 ## Education
 
