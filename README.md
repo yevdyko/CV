@@ -48,6 +48,26 @@ Technologies: MySQL, Ruby 2.3.1, Ruby on Rails 4, JavaScript, jQuery, Bootstrap,
 **Software Engineer** (Feb 2016 – Jul 2017)\
 *Self-Employed*
 
+*Mozgva*. A CRM application for pub quiz.
+- Translated designs to code.
+- Reorganized stylesheet files according to a new maintainable file structure.
+- Refactored monolithic stylesheet (10k lines of code) by breaking it into reusable modules.
+
+Technologies: PostgreSQL, Ruby on Rails, Ruby, JavaScript, jQuery, Bootstrap, HAML/SCSS.
+
+*Neoconstructivist*. A personal artist website.
+
+Developed and supported a website based on static site generator Middleman integrated with Contentful API.
+
+Technologies: Ruby 2.4, Middleman, Bourbon, Neat, HAML/SCSS, Contentful API, Netlify.
+
+*Kafe Kultura*. A POS system software.
+
+Developed user interface and front-end part.
+
+Technologies: JavaScript, jQuery, Gulp, Bootstrap, HTML/SCSS.
+
+
 ## Education
 
 **Makers Academy** (September 2015 - January 2016)\
