@@ -48,18 +48,6 @@ Technologies: MySQL, Ruby 2.3.1, Ruby on Rails 4, JavaScript, jQuery, Bootstrap,
 **Software Engineer** (Feb 2016 – Jul 2017)\
 *Self-Employed*
 
-**Technical Translator** (January 2015 - May 2016)\
-*Technical Translator*
-
-**Structural Engineer** (June 2013 - December 2014)\
-*IMC Planungsgesellschaft mbH*
-
-**Structural Engineer** (July 2011 - May 2013)\
-*ISOBUD*
-
-**Structural Engineer** (March 2008 - July 2010)\
-*Belpromproject*
-
 ## Education
 
 **Makers Academy** (September 2015 - January 2016)\
