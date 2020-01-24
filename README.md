@@ -1,6 +1,6 @@
 # Eugene Dyko
 
-[Experience](#experience) | [Education](#education) | [Skills](#skills) | [LinkedIn](http://www.linkedin.com/in/yevdyko)
+[Experience](#experience) | [Education](#education) | [Skills](#skills) | [Open Source](#open-source) | [LinkedIn](http://www.linkedin.com/in/yevdyko)
 
 My interest in technology and linguistics led me to the world of programming where I'm happy to apply my abilities in problem solving with a passion for design.
 
@@ -50,6 +50,7 @@ Technologies: MySQL, Ruby 2.4.5, Ruby on Rails 4, JavaScript, AngularJS, Grunt, 
 *Itexus*
 
 *sumApp*. A network mapping application that reveals the kinds of relationships people have to one another.
+
 - Built a member invitation system with custom email template editor using Mandrill as email sending service. It consists of email sending statistics, section with actions for sending various types of bulk emails, email template editor and email history.
 - Customized Datatables plugin for list views.
 - Implemented client side of member profile pages.
@@ -58,6 +59,7 @@ Technologies: MySQL, Ruby 2.4.5, Ruby on Rails 4, JavaScript, AngularJS, Grunt, 
 Technologies: PostgreSQL, Ruby 2.3.1, Ruby on Rails 5, JavaScript, jQuery, AngularJS, Bootstrap, HAML/SCSS, Capistrano, Sidekiq.
 
 *Cables and Sensors*. A product database warehouse app.
+
 - Implemented custom and complex form using form objects design pattern.
 - Added new and improved existed UI elements.
 - Migrated data from one entity to another.
@@ -74,7 +76,16 @@ As a self-employed developer, I was responsible for everything started from comm
 
 Besides this, I created a prototype of the POS system software for the local coffee shop that is still in use today. My involvement was to develop the user interface and the entire front-end part of the project.
 
+## Open Source
 
+**Vuestic Admin** (Jan 2018 – Mar 2018)
+
+An open source admin dashboard app that has one responsive design for all screen resolution.
+Implemented and refactored UI components: slider, language-selector etc.
+
+https://github.com/epicmaxco/vuestic-admin
+
+Technologies: JavaScript/ES6, Vue.js, Bootstrap, HTML/SASS.
 
 ## Education
 
