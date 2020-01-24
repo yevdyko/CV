@@ -6,11 +6,11 @@ My interest in technology and linguistics led me to the world of programming whe
 
 ## Summary
 
-- 3+ years of experience in software development.
+- 4+ years of experience in software development.
 - 3 month’s full-time pair programming experience while studying at a coding bootcamp.
 - Have skills both in back-end and front-end parts.
 - Understand OOP concepts and follow in practice the KISS/DRY/SOLID principles.
-- Write clean and maintainable code using TDD/BDD techniques and well-documented commits.
+- Write structured and maintainable code using TDD/BDD techniques and well-documented commits.
 
 ## Experience
 
@@ -35,13 +35,14 @@ Team: Team Lead, Product Owner, UI/UX Designer, QA Automation Engineer, 2 Backen
 *iTechArt Group*
 
 *Radian Generation*. A solar asset management app.
-- Worked closely with client to deliver new features, helped to clarify requirements during development and suggested technical solutions.
+
+- Worked closely with the client to deliver new features, helped to clarify requirements during development and suggested technical solutions.
+- Did code reviews on a daily basis; provided a code quality with unit tests.
 - Improved code maintainability using SOLID design principles as part of extending existing or adding new functionality; highlighted areas for potential improvement.
-- Provided code quality with unit tests.
-- Built an inventory system to manage and track spare parts, which allows to check quantities, make order requests, and view reorder history, set a low-quantity alert, and track status of reorders. Technically, this included API design and implementation, covered with specs; sending notification emails under certain conditions and creating UI components.
-- Expanded notes feature and integrated them into the existing calendar system; highlighted areas for potential improvement.
+- Mentoring a more junior developer.
+- Implemented a custom fields functionality from scratch both on backend and frontend. This helped to reduce the number of customer requests for personalized changes in forms.
+- Built an inventory system to manage and track spare parts, which allows to check quantities, make order requests, and view reorder history, set a low-quantity alert, and track the status of reorders. Technically, this included RESTful API design and implementation, covered with specs; structuring the backend data; sending notification emails under certain conditions and creating UI components.
 - Worked with QuickBase and Dropbox storages: imported client files to the app database; exported tables and data for a backup purpose.
-- Implemented an automated rake task for export attachment documents to an archive file structured in accordance with the requirements and for uploading it to a S3 storage.
 
 Technologies: MySQL, Ruby 2.4.5, Ruby on Rails 4, JavaScript, AngularJS, Grunt, RequireJS, PhantomJS, AWS.
 
@@ -49,9 +50,10 @@ Technologies: MySQL, Ruby 2.4.5, Ruby on Rails 4, JavaScript, AngularJS, Grunt, 
 *Itexus*
 
 *sumApp*. A network mapping application that reveals the kinds of relationships people have to one another.
-- Built a member invitation system with custom email template editor using Mandrill as sending emails service. It consists of email sending statistics, section with actions for sending different kinds of bulk emails, email template editor and email history.
+- Built a member invitation system with custom email template editor using Mandrill as email sending service. It consists of email sending statistics, section with actions for sending various types of bulk emails, email template editor and email history.
 - Customized Datatables plugin for list views.
 - Implemented client side of member profile pages.
+
 
 Technologies: PostgreSQL, Ruby 2.3.1, Ruby on Rails 5, JavaScript, jQuery, AngularJS, Bootstrap, HAML/SCSS, Capistrano, Sidekiq.
 
@@ -65,24 +67,13 @@ Technologies: MySQL, Ruby 2.3.1, Ruby on Rails 4, JavaScript, jQuery, Bootstrap,
 **Software Engineer** (Feb 2016 – Jul 2017)\
 *Self-Employed*
 
-*Mozgva*. A CRM application for pub quiz.
-- Translated designs to code.
-- Reorganized stylesheet files according to a new maintainable file structure.
-- Refactored monolithic stylesheet (10k lines of code) by breaking it into reusable modules.
+As a self-employed developer, I was responsible for everything started from communication with customers and ended with deploying projects. I have implemented several mid-sized projects with Ruby and Ruby on Rails:
 
-Technologies: PostgreSQL, Ruby on Rails, Ruby, JavaScript, jQuery, Bootstrap, HAML/SCSS.
+- A few brand promotion applications with content management functionality for end clients and resellers, including CMS features, responsive design, admin panel with Active Admin and deploying with Capistrano.
+- A CRM application for the public quiz, where I made a number of improvements in the user interface, reorganized style sheet files according to the new supported file structure and redesigned the monolithic style sheet (10,000 lines of code) into reusable modules.
 
-*Neoconstructivist*. A personal artist website.
+Besides this, I created a prototype of the POS system software for the local coffee shop that is still in use today. My involvement was to develop the user interface and the entire front-end part of the project.
 
-Developed and supported a website based on static site generator Middleman integrated with Contentful API.
-
-Technologies: Ruby 2.4, Middleman, Bourbon, Neat, HAML/SCSS, Contentful API, Netlify.
-
-*Kafe Kultura*. A POS system software.
-
-Developed user interface and front-end part.
-
-Technologies: JavaScript, jQuery, Gulp, Bootstrap, HTML/SCSS.
 
 
 ## Education
