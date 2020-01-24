@@ -14,7 +14,24 @@ My interest in technology and linguistics led me to the world of programming whe
 
 ## Experience
 
-**Software Engineer** (April 2018 - present)\
+**Ruby Backend Developer** (August 2019 - present)\
+*HeyJobs*
+
+A talent acquisition platform that helps employers find the right candidates by using performance marketing and allows the
+jobseeker to find a job.
+
+As part of the Jobseeker Team, I was responsible for the design and development of the backend for the jobseeker platform.
+
+- Worked closely with the product manager to implement new features by splitting them into smaller logical parts and finding the best way to deliver them in cooperation with the rest of the team. Furthermore, I also helped to specify requirements during the development and suggested technical solutions.
+- Did code reviews on a daily basis; provided a code quality with unit and integration tests.
+- Built a system that includes the data import with job recommendations from files stored in AWS S3 Storage based on the data science pipeline and subsequent regular mailing of them using Mandrill as email sending service. Afterward, this made it possible to test different recommendation models and increase traffic to the platform.
+- Introduced a new API endpoint for job recommendations integrated with the Content Delivery and CRM services that provides data based on the requested recommendation engine.
+- Built a recommendation system based on Google Cloud Talent Solution API using a wide range of user data as recommendation sources. That allowed to involve new users that have not been active on the platform.
+- Initiated the separation of the module for logging methods and HTTP calls to the internal library in a monolithic application with the possibility to move it to the Ruby gem that can be used by other services and will improve the maintenance and enhancement of this functionality.
+
+Team: Team Lead, Product Owner, UI/UX Designer, QA Automation Engineer, 2 Backend and 2 Frontend Engineers. Technologies: PostgreSQL, Ruby, Ruby on Rails 5, Grape API, Sidekiq, Active Admin, JavaScript, React, AWS.
+
+**Software Engineer** (April 2018 - July 2019)\
 *iTechArt Group*
 
 *Radian Generation*. A solar asset management app.
