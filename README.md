@@ -88,17 +88,12 @@ A learning process was focused on the pair programming, OOP concepts, test-drive
 
 ## Skills
 
-**Operating Systems**: Linux (Ubuntu), Mac OS X\
 **Programming Languages**: Ruby, JavaScript/ES6\
 **Frameworks and Libraries**: Ruby on Rails, Sinatra, jQuery, AngularJS, React, Vue.js\
-**Methodologies**: Test-driven Development, Responsive Web design, Agile, Extreme Programming\
-**Databases**: PostgreSQL, MySQL, Redis\
-**TDD/BDD**: RSpec, Capybara, Jasmine, Karma, Protractor, PhantomJS\
-**Background Processing**: Sidekiq\
-**Servers Configuration**: Nginx, uSWGIi\
-**External System Integration**: QuickBase API, Tesco API, Bittylicious API, Contentful API\
-**Version Control Systems**: Git\
-**CI**: Travis CI, CircleCI, Jenkins
+**Development Methodologies**: Agile, Scrum, Kanban\
+**Databases**: PostgreSQL, MySQL\
+**Testing**: TDD, BDD, Unit testing, Integration testing\
+**DevOps**: AWS, Heroku, Nginx, Continuous Integration tools (Travis CI, CircleCI, Jenkins)
 
 ## Languages
 
