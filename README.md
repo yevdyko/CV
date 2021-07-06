@@ -39,10 +39,17 @@ Bachelor of Engineering (B.Eng.), Civil Engineering
 
 ## Open Source
 
-**Vuestic Admin** (Jan 2018 – Mar 2018) https://github.com/epicmaxco/vuestic-admin\
-Implemented and refactored UI components: slider, language-selector etc.\
-Technologies: JavaScript/ES6, Vue.js, Bootstrap, HTML/SASS.
+[**p5-react-wrapper**](https://github.com/jamesrweb/react-p5-wrapper) (Mar 2021 – present)
+- Got involved in maintaining the project through a bug fix in a package.
+- Mainly focusing on automating processes and reducing avoidable dependencies and configurations.
+- Added linting and formatting to simplify support of the library component.
+- Set up CI using GitHub Actions workflow and testing configuration.
+- Technologies: TypeScript, JavaScript, React, GitHub Actions.
 
+[**Vuestic Admin**](https://github.com/epicmaxco/vuestic-admin) (Jan 2018 – Mar 2018)
+- I was looking for a way to get hands-on experience with Vue.js, so I participated in this project for a while.
+- Implemented and refactored a few UI components: slider, language-selector etc.
+- Technologies: JavaScript/ES6, Vue.js, Bootstrap, HTML/SASS.
 
 ## Languages
 
