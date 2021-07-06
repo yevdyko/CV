@@ -18,10 +18,10 @@
 **Full Stack Engineer - Itexus**, Belarus (June 2017 - March 2018)
 
 - Worked on a few mid-term projects for US-based clients who need to bootstrap their businesses.
-- Built a member invitation system with a custom email template editor. It consists of an email sending statistics; section with actions for sending various types of bulk emails, email template editor and email history.
+- Built a member invitation system based on the MailChimp platform with a custom email template editor.
 - Implemented a custom and complex form using form objects design pattern for a product database warehouse app.
-- Created new and improved existing UI elements.
-- Used technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaScript, jQuery, AngularJS, Bootstrap, Heroku.
+- Created new and improved existing UI components.
+- Used technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaScript, jQuery, AngularJS, Heroku.
 
 **Software Engineer - Self-Employed**, Belarus (Feb 2016 – Jul 2017)
 
