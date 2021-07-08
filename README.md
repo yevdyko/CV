@@ -10,10 +10,11 @@
 **Full Stack Engineer - iTechArt Group**, Belarus (April 2018 - July 2019)
 
 - Worked on a long-term project for a US-based client as a part of the dedicated development team.
-- Built an inventory system to manage and track spare parts. Technically, this included a RESTful API design and implementation, covered with tests; structuring the backend data; sending notification emails under certain conditions and creating UI components.
+- Built an inventory system to manage and track spare parts in the solar asset management platform.
+- This included a RESTful API design and implementation, structuring the backend data, sending notification emails under certain conditions, and creating UI components.
 - Implemented a custom fields functionality from scratch both on backend and frontend.
 - Mentored a more junior developer.
-- Used technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, AngularJS, Bootstrap, QuickBase API, Dropbox API, Mandrill, AWS S3.
+- Used technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, AngularJS, QuickBase API, Dropbox API, AWS S3.
 
 **Full Stack Engineer - Itexus**, Belarus (June 2017 - March 2018)
 
