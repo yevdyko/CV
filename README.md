@@ -1,5 +1,13 @@
 # Eugene Dyko
 
+**Backend Engineer - Aklamio GmbH**, Germany (May 2020 - present)
+
+- Designed and developed a Partner GraphQL API for the referral platform.
+- Created a reward engine system together with 2 backend engineers based on events from Kafka.
+- Initiated and implemented API documentation based on the GraphQL schema, generated automatically with each deployment.
+- Upgraded the whole Ruby ecosystem to the newer version 2.7 and introduced a guide for the next updates.
+- Used technologies: MySQL, Ruby, Ruby on Rails 5, Sinatra, Rake, RSpec, Delayed Job, GraphQL API, Gitlab CI.
+
 **Backend Engineer - HeyJobs GmbH**, Germany (August 2019 - February 2020)
 
 - Designed and developed a backend for the jobseeker platform.
