@@ -1,11 +1,13 @@
 # Eugene Dyko
 
-**Backend Engineer - HeyJobs GmbH**, Germany (August 2019 - present)
+**Backend Engineer - HeyJobs GmbH**, Germany (August 2019 - February 2020)
 
 - Designed and developed a backend for the jobseeker platform.
-- Built a recommendation system integrated with the Content Delivery and CRM services that provides data based on the requested recommendation engine. This involved an API design; data import from files stored in AWS S3 storage and obtained through the data science pipeline; and implementation of recommendations based on Google Cloud Talent Solution API.
+- Integrated a recommendation system into a backend that provides data based on the requested recommendation engine, including communication with Content Delivery and CRM services.
+- This involved an API design, importing about 500k records in 20 mins from files stored in AWS S3 storage and obtained through the data science pipeline.
+- Implemented recommendations based on Google Cloud Talent Solution API.
 - Initiated a separation of the module for logging methods and HTTP calls to the internal library in a monolithic application with the possibility to move it to the Ruby gem that can be used by other services.
-- Used technologies: PostgreSQL, Ruby, Ruby on Rails 5, Grape API, RSpec, Sidekiq, Google Cloud Talent Solution API, Mandrill, AWS S3.
+- Used technologies: PostgreSQL, Ruby, Ruby on Rails 5, Grape API, RSpec, Sidekiq, Mandrill, AWS S3.
 
 **Full Stack Engineer - iTechArt Group**, Belarus (April 2018 - July 2019)
 
