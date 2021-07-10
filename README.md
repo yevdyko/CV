@@ -1,6 +1,7 @@
 # Eugene Dyko
 
-**Backend Engineer - Aklamio GmbH**, Germany (May 2020 - present)\
+**Backend Engineer - Aklamio GmbH**, Germany (May 2020 - present)
+
 Technologies: MySQL, Ruby, Ruby on Rails 5, Sinatra, Rake, RSpec, Delayed Job, GraphQL API, Gitlab CI.
 
 - Designed and developed a Partner GraphQL API for the referral platform.
@@ -8,7 +9,8 @@ Technologies: MySQL, Ruby, Ruby on Rails 5, Sinatra, Rake, RSpec, Delayed Job, G
 - Initiated and implemented API documentation based on the GraphQL schema, generated automatically with each deployment.
 - Upgraded the whole Ruby ecosystem to the newer version 2.7 and introduced a guide for the next updates.
 
-**Backend Engineer - HeyJobs GmbH**, Germany (August 2019 - February 2020)\
+**Backend Engineer - HeyJobs GmbH**, Germany (August 2019 - February 2020)
+
 Technologies: PostgreSQL, Ruby, Ruby on Rails 5, Grape API, RSpec, Sidekiq, Mandrill, AWS S3.
 
 - Designed and developed a backend for the jobseeker platform.
@@ -17,7 +19,8 @@ Technologies: PostgreSQL, Ruby, Ruby on Rails 5, Grape API, RSpec, Sidekiq, Mand
 - Implemented recommendations based on Google Cloud Talent Solution API.
 - Initiated a separation of the module for logging methods and HTTP calls to the internal library in a monolithic application with the possibility to move it to the Ruby gem that can be used by other services.
 
-**Full Stack Engineer - iTechArt Group**, Belarus (April 2018 - July 2019)\
+**Full Stack Engineer - iTechArt Group**, Belarus (April 2018 - July 2019)
+
 Technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, AngularJS, QuickBase API, Dropbox API, AWS S3.
 
 - Worked on a long-term project for a US-based client as a part of the dedicated development team.
@@ -26,7 +29,8 @@ Technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, Angular
 - Implemented a custom fields functionality from scratch both on backend and frontend.
 - Mentored a more junior developer.
 
-**Full Stack Engineer - Itexus**, Belarus (June 2017 - March 2018)\
+**Full Stack Engineer - Itexus**, Belarus (June 2017 - March 2018)
+
 Technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaScript, jQuery, AngularJS, Heroku.
 
 - Worked on a few mid-term projects for US-based clients who need to bootstrap their businesses.
@@ -35,7 +39,8 @@ Technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaS
 - Created new and improved existing UI components.
 
 
-**Software Engineer - Self-Employed**, Belarus (Feb 2016 – Jul 2017)\
+**Software Engineer - Self-Employed**, Belarus (Feb 2016 – Jul 2017)
+
 Technologies: PostgreSQL, Ruby, Ruby on Rails 4/5, Active Admin, RSpec, Sidekiq, JavaScript, jQuery, Bootstrap, Heroku.
 
 - Built a few brand promotion applications with content management functionality for end clients and resellers, incl. CMS features, responsive design, admin panel with Active Admin and deploying with Capistrano.
@@ -51,7 +56,8 @@ Bachelor of Engineering (B.Eng.), Civil Engineering
 
 ## Open Source
 
-[**p5-react-wrapper**](https://github.com/jamesrweb/react-p5-wrapper) (Mar 2021 – present)\
+[**p5-react-wrapper**](https://github.com/jamesrweb/react-p5-wrapper) (Mar 2021 – present)
+
 Technologies: TypeScript, JavaScript, React, GitHub Actions.
 
 - Got involved in maintaining the project through a bug fix in a package.
@@ -59,7 +65,8 @@ Technologies: TypeScript, JavaScript, React, GitHub Actions.
 - Added linting and formatting to simplify support of the library component.
 - Set up CI using GitHub Actions workflow and testing configuration.
 
-[**Vuestic Admin**](https://github.com/epicmaxco/vuestic-admin) (Jan 2018 – Mar 2018)\
+[**Vuestic Admin**](https://github.com/epicmaxco/vuestic-admin) (Jan 2018 – Mar 2018)
+
 Technologies: JavaScript/ES6, Vue.js, Bootstrap, HTML/SASS.
 
 - I was looking for a way to get hands-on experience with Vue.js, so I participated in this project for a while.
