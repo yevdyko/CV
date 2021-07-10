@@ -48,10 +48,10 @@ Technologies: PostgreSQL, Ruby, Ruby on Rails 4/5, Active Admin, RSpec, Sidekiq,
 
 ## Education
 
-**Makers Academy** (2015 - 2016)\
+**Makers Academy** (2015 - 2016)<br>
 Computer Software Engineering Course
 
-**Belarusian National Technical University** (2003 - 2008)\
+**Belarusian National Technical University** (2003 - 2008)<br>
 Bachelor of Engineering (B.Eng.), Civil Engineering
 
 ## Open Source
