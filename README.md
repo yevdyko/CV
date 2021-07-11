@@ -31,7 +31,7 @@ Technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, Angular
 
 **Full Stack Engineer - Itexus**, Belarus (June 2017 - March 2018)
 
-Technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaScript, jQuery, AngularJS, Heroku.
+Technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaScript, AngularJS, Heroku.
 
 - Worked on a few mid-term projects for US-based clients who need to bootstrap their businesses.
 - Built a member invitation system based on the MailChimp platform with a custom email template editor.
@@ -41,7 +41,7 @@ Technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaS
 
 **Software Engineer - Self-Employed**, Belarus (Feb 2016 – Jul 2017)
 
-Technologies: PostgreSQL, Ruby, Ruby on Rails 4/5, Active Admin, RSpec, Sidekiq, JavaScript, jQuery, Bootstrap, Heroku.
+Technologies: PostgreSQL, Ruby, Ruby on Rails 4/5, Active Admin, RSpec, Sidekiq, JavaScript, Heroku.
 
 - Built a few brand promotion applications with content management functionality for end clients and resellers, incl. CMS features, responsive design, admin panel with Active Admin and deploying with Capistrano.
 - Created a prototype of the POS system software for the local coffee shop that is still in use today. My involvement was to develop the user interface and the entire front-end part of the project.
