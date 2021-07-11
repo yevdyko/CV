@@ -17,7 +17,7 @@ Technologies: PostgreSQL, Ruby, Ruby on Rails 5, Grape API, RSpec, Sidekiq, Mand
 - Integrated a recommendation system into a backend that provides data based on the requested recommendation engine, including communication with Content Delivery and CRM services.
 - This involved an API design, importing about 500k records in 20 mins from files stored in AWS S3 storage and obtained through the data science pipeline.
 - Implemented recommendations based on Google Cloud Talent Solution API.
-- Initiated a separation of the module for logging methods and HTTP calls to the internal library in a monolithic application with the possibility to move it to the Ruby gem that can be used by other services.
+- Initiated a separation of the module for logging methods and HTTP calls to the internal library in a monolithic application.
 
 **Full Stack Engineer - iTechArt Group**, Belarus (April 2018 - July 2019)
 
@@ -25,7 +25,7 @@ Technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, Angular
 
 - Worked on a long-term project for a US-based client as a part of the dedicated development team.
 - Built an inventory system to manage and track spare parts in the solar asset management platform.
-- This included a RESTful API design and implementation, structuring the backend data, sending notification emails under certain conditions, and creating UI components.
+- This included a RESTful API design and implementation, structuring the backend data, and creating UI components.
 - Implemented a custom fields functionality from scratch both on backend and frontend.
 - Mentored a more junior developer.
 
