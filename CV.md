@@ -6,7 +6,7 @@ Technologies: MySQL, Ruby, Ruby on Rails 5, Sinatra, Rake, RSpec, Delayed Job, G
 
 - Designed and developed a Partner GraphQL API for the referral platform.
 - Created a reward engine system together with 2 backend engineers based on events from Kafka.
-- Initiated and implemented API documentation based on the GraphQL schema, generated automatically with each deployment.
+- Initiated and implemented [API documentation](https://developers.aklamio.com/partner-api.html) based on the GraphQL schema, generated automatically with each deployment.
 - Upgraded the whole Ruby ecosystem to the newer version 2.7 and introduced a guide for the next updates.
 
 **Backend Engineer - HeyJobs GmbH**, Germany (August 2019 - February 2020)
